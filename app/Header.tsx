@@ -10,7 +10,7 @@ export default function Header() {
           Home
         </Link>
         <Link href='/todos' className='bg-white text-blue-500 rounded'>
-          Todos
+          Todos For Future Project
         </Link>
       </div>
     </div>
